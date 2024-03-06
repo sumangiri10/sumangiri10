@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suman</h1>
+<h1 align="center">Hi 👋, I'm Suman.</h1>
 <h3 align="center">Aspiring code maestro 🚀 | Unleashing the magic of Computer Science | Year 1 in the coding dojo 💻✨</h3>
 
 - 🌱 I’m currently learning **Full stack.**
