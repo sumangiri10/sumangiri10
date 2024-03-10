@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **just dm me !**
 
-- ⚡ Fun fact **Do I know you?'**
+- ⚡ Fun fact **Do I know you?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
