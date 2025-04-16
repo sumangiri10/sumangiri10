@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack.**
 
-- 💬 Ask me about **just frontend.**
+- 💬 Ask me about **just anything.**
 
 - 📫 How to reach me **just dm me !**
 
